@@ -1,0 +1,18 @@
+[package]
+name = "shadertoy-rs"
+version = "0.1.0"
+authors = ["Snowapril <sinjihng@gmail.com>"]
+edition = "2018"
+description = "A live coding glsl editor"
+readme = "../README.md"
+repository = "https://github.com/snowapril/shadertoy-rs"
+license = "MIT"
+keywords = ["editor", "glsl", "shader", "opengl", "spir-v", "graphics", "art"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name="shadertoy-rs"
+path="src/main.rs"
