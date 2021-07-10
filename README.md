@@ -3,10 +3,10 @@
 <img src="./medias/logo.png" width=400 height=300 />
 
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/snowapril/shadertoy-rs/blob/master/LICENSE)
-[![Audit](https://github.com/snowapril/shadertoy-rs/actions/workflows/audit/badge.svg)](https://github.com/snowapril/shadertoy-rs/actions)
-[![Build](https://github.com/snowapril/shadertoy-rs/actions/workflows/build/badge.svg)](https://github.com/snowapril/shadertoy-rs/actions)
-[![Rust](https://github.com/snowapril/shadertoy-rs/actions/workflows/rust/badge.svg)](https://github.com/snowapril/shadertoy-rs/actions)
-[![Test](https://github.com/snowapril/shadertoy-rs/actions/workflows/test/badge.svg)](https://github.com/snowapril/shadertoy-rs/actions)
+[![Audit](https://github.com/snowapril/shadertoy-rs/actions/workflows/audit.yml/badge.svg?branch=main)](https://github.com/snowapril/shadertoy-rs/actions)
+[![Build](https://github.com/snowapril/shadertoy-rs/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/snowapril/shadertoy-rs/actions)
+[![Rust](https://github.com/snowapril/shadertoy-rs/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/snowapril/shadertoy-rs/actions)
+[![Test](https://github.com/snowapril/shadertoy-rs/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/snowapril/shadertoy-rs/actions)
 [![codecov](https://codecov.io/gh/Snowapril/shadertoy-rs/branch/main/graph/badge.svg?token=73HJ97H6ZU)](https://codecov.io/gh/Snowapril/shadertoy-rs)
 
 shadertoy-rs is a simple template for Rust language based project. 
